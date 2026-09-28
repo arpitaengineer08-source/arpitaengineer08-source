@@ -20,7 +20,7 @@ Building data-driven products at the intersection of analytics, machine learning
 
 I am a Computer Science student at SRM University (Delhi-NCR, Sonepat) specialising in Data Science and AI. I currently work as a Data Analyst Intern at Labmentix, and I build analytics dashboards, machine learning applications and full-stack products. I care about clean, scalable solutions to real-world problems.
 
-- 🎓 B.Tech CSE (AI & Data Science), expected 2028
+- 🎓 B.Tech CSE (AI & Data Science), expected 2027
 - 📊 Data Analyst Intern at Labmentix
 - 🧠 Coordinator at AILytics, organising AI events, workshops and hackathons
 - 🏆 Finalist, Smart India Hackathon 2025 (Hardware Edition) with Team Vajraa
