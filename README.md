@@ -7,9 +7,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -28,7 +31,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student who loves solving real-world problems with **data and AI**. I build AI-driven projects, web apps and mobile apps, with a focus on clean, scalable solutions.
+I'm a Computer Science student who loves solving real-world problems with **data and AI**. I build AI-driven projects, dashboards, web apps and mobile apps, with a focus on clean, scalable solutions.
 
 - 🎓 **B.Tech CSE (Data Science & AI)** @ SRM University, Sonepat · Expected 2028
 - 🏆 **SIH 2025 National Finalist** (Hardware Edition) with Team Vajraa
@@ -39,7 +42,21 @@ I'm a Computer Science student who loves solving real-world problems with **data
 
 ---
 
-## 🔭 Projects
+## 🔭 Featured Projects
+
+- 🧠 **[NeuroEase](https://github.com/arpitaengineer08-source/neuroease)**: Full-stack Digital Mental Health Support Platform built with FastAPI, offering AI-powered emotional support, mood tracking, user profiles and appointment scheduling
+- 🎬 **[MovieIQ Studio Decision Intelligence](https://github.com/arpitaengineer08-source/MovieIQ-Studio-Decision-Intelligence)**: End-to-end Machine Learning and Business Intelligence dashboard for predicting movie box office success, hypothesis testing, budget forecasting and movie comparison
+- 🏏 **[CRICKBUZZ LiveStats](https://github.com/arpitaengineer08-source/CRICKBUZZ)**: Full-stack cricket analytics dashboard using Python, Streamlit and SQLite with live match data from the Cricbuzz API, 25 SQL analytics queries and full CRUD operations
+- 🐦 **[Bird Species Observation Analysis](https://github.com/arpitaengineer08-source/Bird-Species-Observation-Analysis)**: EDA of bird species diversity across Forest and Grassland habitats with an interactive Streamlit dashboard
+- 🧘 **[Mental Health Tech EDA](https://github.com/arpitaengineer08-source/mental-health-tech-eda)**: Exploratory Data Analysis of the OSMI 2014 Mental Health in Tech Survey with a Streamlit dashboard, Jupyter notebook, 25 charts and interactive filters
+- ⌚ **[Bellabeat Fitbit Analytics](https://github.com/arpitaengineer08-source/bellabeat-fitbit-analytics)**: Fitbit fitness-tracker analytics with a Streamlit dashboard, SQL data checks and marketing recommendations for the Leaf wellness tracker
+- 🌿 **[Plant Rock Classifier](https://github.com/arpitaengineer08-source/plant-rock-classifier)**: AI-based image classifier
+- 🩺 **[DiaCheck](https://github.com/arpitaengineer08-source/DiaCheck)**: Jupyter Notebook project
+- 🏨 **[Hotel](https://github.com/arpitaengineer08-source/hotel)**: Python project
+
+---
+
+## 🛠️ More Projects
 
 - 🛒 **Amazon Clone Web App**: Full-stack e-commerce platform with Flask, user authentication and product management
 - 🎵 **Emotion-Based Music Player**: Detects facial emotions using computer vision and recommends music accordingly
@@ -51,10 +68,11 @@ I'm a Computer Science student who loves solving real-world problems with **data
 
 ## 🧠 Tech Stack
 
-**Languages:** Python
+**Languages:** Python, SQL
 **Core CS:** Data Structures, DBMS
-**AI / Data:** Machine Learning, Data Analysis, Computer Vision, NLP
-**Development:** Flask, Web Development, App Development
+**AI / Data:** Machine Learning, Data Analysis, EDA, Computer Vision, NLP
+**Dashboards & Visualization:** Streamlit, Jupyter Notebook
+**Development:** Flask, FastAPI, SQLite, Web Development, App Development
 
 ---
 
