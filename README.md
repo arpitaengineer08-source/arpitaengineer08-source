@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arpita Sharma 👋</h1>
 
 <p align="center">
-  <b>B.Tech CSE (Data Science & AI) · SIH 2025 National Finalist · Open Source Contributor</b>
+  <b>Data Analyst Intern @ Labmentix · B.Tech CSE (AI & Data Science) · SIH 2025 National Finalist</b>
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DATA%20ANALYTICS-6A1B9A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MACHINE%20LEARNING-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
 </p>
@@ -31,14 +32,24 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student who loves solving real-world problems with **data and AI**. I build AI-driven projects, dashboards, web apps and mobile apps, with a focus on clean, scalable solutions.
+I'm a Computer Science student who loves solving real-world problems with **data and AI**. I build data analytics dashboards, AI-driven projects, web apps and mobile apps, with a focus on clean, scalable solutions.
 
-- 🎓 **B.Tech CSE (Data Science & AI)** @ SRM University, Sonepat · Expected 2028
+- 📊 **Data Analyst Intern** @ Labmentix · Jul 2026 - Present
+- 🎓 **B.Tech CSE (AI & Data Science)** @ SRM University, Delhi-NCR (Sonepat) · Expected 2028
 - 🏆 **SIH 2025 National Finalist** (Hardware Edition) with Team Vajraa
-- 🤝 **Open Source Contributor** @ Open Source Connect
-- 🧠 **Co-ordinator** @ AI Lytics (Coding Society)
-- 📱 **App Developer** @ CodeCraft Infotech
+- 🧠 **Coordinator** @ AILytics (Coding Society)
+- 🤝 Former **Open Source Contributor** @ Open Source Connect
 - 🌐 Languages: English, Hindi, French (Intermediate)
+
+---
+
+## 💼 Experience
+
+- 📊 **Data Analyst Intern**, Labmentix · Jul 2026 - Present · Remote
+- 🧠 **Coordinator**, AILytics (Coding Society) · Sep 2025 - Present. Organising technical events, workshops and hackathons on AI and development
+- 🤝 **Contributor**, Open Source Connect · Feb 2026 - Apr 2026 · Remote. Feature enhancements, bug fixes, debugging and testing
+- 📱 **App Developer Intern**, CodeCraft Infotech · Jul 2025 - Aug 2025 · Remote. Built mobile apps focused on performance and usability
+- 🏛️ **Intern**, SPNF-HP, Shimla · Jul 2024 - Aug 2024. Worked on media strategies to raise public awareness of PK3 Yojna's initiatives
 
 ---
 
@@ -70,7 +81,7 @@ I'm a Computer Science student who loves solving real-world problems with **data
 
 **Languages:** Python, SQL
 **Core CS:** Data Structures, DBMS
-**AI / Data:** Machine Learning, Data Analysis, EDA, Computer Vision, NLP
+**AI / Data:** Data Analytics, Machine Learning, EDA, Computer Vision, NLP
 **Dashboards & Visualization:** Streamlit, Jupyter Notebook
 **Development:** Flask, FastAPI, SQLite, Web Development, App Development
 
@@ -101,4 +112,4 @@ I'm a Computer Science student who loves solving real-world problems with **data
 
 ## 📫 Let's Connect
 
-Open to internships, collaborations and open-source work. Reach me on [LinkedIn](https://www.linkedin.com/in/arpita-sharma-9a1a381b7/) or [email](mailto:arpitaengineer08@gmail.com).
+Open to data analytics and AI internships, collaborations and open-source work. Reach me on [LinkedIn](https://www.linkedin.com/in/arpita-sharma-9a1a381b7/) or [email](mailto:arpitaengineer08@gmail.com).
