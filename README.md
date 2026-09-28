@@ -102,23 +102,6 @@ I'm a Computer Science student who loves solving real-world problems with **data
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arpitaengineer08-source&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ea043/arpitaengineer08-source" alt="GitHub Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpitaengineer08-source&theme=tokyonight" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitaengineer08-source&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 Open to data analytics and AI internships, collaborations and open-source work. Reach me on [LinkedIn](https://www.linkedin.com/in/arpita-sharma-9a1a381b7/) or [email](mailto:arpitaengineer08@gmail.com).
