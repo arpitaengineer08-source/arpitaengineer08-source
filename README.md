@@ -18,6 +18,12 @@
   <a href="https://github.com/arpitaengineer08-source"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/arpitasharma02/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/profile/arpitaengineer08"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.naukri.com/code360/profile/d61e714e-054d-4c12-8a43-2c82938c6b22"><img src="https://img.shields.io/badge/CODE%20360-FF7A00?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -49,6 +55,14 @@ I'm a Computer Science student who loves solving real-world problems with **data
 **Core CS:** Data Structures, DBMS
 **AI / Data:** Machine Learning, Data Analysis, Computer Vision, NLP
 **Development:** Flask, Web Development, App Development
+
+---
+
+## 💻 Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/arpitasharma02/)
+- [HackerRank](https://www.hackerrank.com/profile/arpitaengineer08)
+- [Code 360](https://www.naukri.com/code360/profile/d61e714e-054d-4c12-8a43-2c82938c6b22)
 
 ---
 
