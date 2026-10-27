@@ -1,12 +1,12 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27,30&height=250&section=header&text=ARPITA%20SHARMA&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Turning%20Data%20Into%20Decisions%20✨&descAlignY=60&descAlign=50&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27,30&height=250&section=header&text=ARPITA%20SHARMA&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Turning%20Data%20Into%20Decisions%20✨&descAlignY=60&descAlign=50&descSize=20" width="100%" alt="Arpita Sharma profile banner"/>
 </div>
 
 <p align="center">
   <strong>📊 Data Analyst Intern | AI/ML Developer</strong><br>
   💡 Python • SQL • Machine Learning • Computer Vision<br>
-  🚀 Building Dashboards & Full-Stack Apps<br>
+  🚀 Building Dashboards & Full-Stack Applications<br>
   🏆 Smart India Hackathon 2025 National Finalist
 </p>
 
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpitaengineer08-source&label=Profile%20views&color=00D9A3&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=arpitaengineer08-source&label=Profile%20Views&color=00D9A3&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -47,23 +47,35 @@ arpita = {
     "name": "Arpita Sharma",
     "title": "Data Analyst Intern & AI/ML Developer",
     "education": "B.Tech CSE (Data Science & AI), SRM University",
-    "location": "Shimla, Himachal Pradesh 🇮🇳",
+    "location": "Shimla, Himachal Pradesh, India",
+
     "working_on": [
         "Data analytics & reporting @ Labmentix",
         "End-to-end ML + BI dashboards",
         "Computer vision & NLP projects",
         "Full-stack AI-powered applications"
     ],
+
+    "philosophy": [
+        "Clean the data first",
+        "Find the story in it",
+        "Build something people can use"
+    ],
+
     "currently_exploring": {
-        "data_analytics": ["EDA", "Power BI", "SQL optimisation"],
-        "machine_learning": [
-            "Deep Learning", "NLP", "Predictive modelling"
+        "data_analytics": [
+            "EDA", "Power BI", "SQL optimisation"
         ],
-        "full_stack": ["FastAPI", "Streamlit", "Flask"]
+        "machine_learning": [
+            "Deep Learning", "NLP", "Predictive Modelling"
+        ],
+        "full_stack": [
+            "FastAPI", "Streamlit", "Flask"
+        ]
     }
 }
 
-print("Turning raw data into decisions 📊")
+print("Turning raw data into decisions!")
 ```
 
 </td>
@@ -71,17 +83,19 @@ print("Turning raw data into decisions 📊")
 
 ### 💭 PHILOSOPHY & APPROACH
 
-> **"I don't just want a chart that looks good—**
+> **"I don't just want a chart that looks good.**
 >
-> **I want it to answer the question someone actually asked."**
+> **I want it to answer the question**
+>
+> **someone actually asked."**
 
 **My Approach:**
 
-- 🔍 **Clean First** → Messy data → Trustworthy data
-- 🧩 **Find the Signal** → Numbers → Insight
-- ⚡ **Build & Ship** → Analysis → Working dashboard
-- 🎯 **Keep Improving** → Good → Production-ready
-- 📚 **Explain Simply** → Technical → Understandable
+- 🔍 **Clean First** → Messy data to trustworthy data
+- 🧩 **Find the Signal** → Numbers to insights
+- ⚡ **Build & Ship** → Analysis to working dashboards
+- 🎯 **Keep Improving** → Good to production-ready
+- 📚 **Explain Simply** → Technical to understandable
 
 **Impact Over Buzzwords**
 
@@ -101,7 +115,7 @@ Dashboards and models that answer real questions, not just look impressive.
 
 ### 🔭 CURRENTLY BUILDING
 
-- 📊 Data analytics @ Labmentix
+- 📊 Data analytics work @ Labmentix
 - 🧠 NeuroEase: AI mental health platform
 - 🎬 MovieIQ Studio: ML + BI dashboard
 - 🏏 Cricbuzz LiveStats: live API analytics
@@ -132,24 +146,24 @@ Dashboards and models that answer real questions, not just look impressive.
 
 | | |
 |:---|:---|
-| 👯 **Looking to collaborate on** | Computer vision, NLP / document AI, ML research projects and hackathon teams |
-| 🤝 **Looking for help with** | Publishing my research paper, deploying ML models, and improving model accuracy in low-light conditions |
-| 💬 **Ask me about** | Python, OpenCV, MediaPipe, Flask, computer vision, PDF chat assistants, hardware prototyping |
-| ⚡ **Fun fact** | I built a piano playable in mid-air with hand gestures 🎹 and speak English, Hindi and French 🇫🇷 |
+| 👯 **Looking to collaborate on** | Computer vision, NLP, document AI, ML research and hackathon projects |
+| 🤝 **Looking for help with** | Publishing research, deploying ML models and improving real-world model accuracy |
+| 💬 **Ask me about** | Python, OpenCV, MediaPipe, Flask, computer vision, PDF chat assistants and hardware prototyping |
+| ⚡ **Fun fact** | I built a virtual piano playable with hand gestures 🎹 and speak English, Hindi and French 🇫🇷 |
 
 ---
 
 ## 🚀 FEATURED PROJECTS
 
-| 🧩 Project | 📝 What it does | 🧰 Tech |
+| 🧩 Project | 📝 What it does | 🧰 Tech Stack |
 |:---|:---|:---|
 | 🧠 **NeuroEase** | AI-powered mental health platform | Python, ML |
-| 🎬 **MovieIQ Studio** | ML + BI dashboard for movie insights | Python, Pandas, Streamlit |
+| 🎬 **MovieIQ Studio** | Movie insights using ML and BI dashboards | Python, Pandas, Streamlit |
 | 🏏 **Cricbuzz LiveStats** | Live cricket analytics using APIs and SQL | Python, SQL, APIs |
 | 😊 **Emotion-Based Music Player** | Detects facial emotions and plays matching music | Python, OpenCV, Deep Learning |
 | 🎹 **Hand Gesture Piano** | Virtual piano controlled by hand landmarks | Python, OpenCV, MediaPipe |
-| 📄 **AI Chat Assistant for PDFs** | Context-grounded question answering from PDFs | Python, NLP, Flask |
-| 🛒 **Amazon Clone** | Full-stack e-commerce app with authentication | Flask, SQLite |
+| 📄 **AI Chat Assistant for PDFs** | Answers questions from PDFs using contextual information | Python, NLP, Flask |
+| 🛒 **Amazon Clone** | Full-stack e-commerce application with authentication | Flask, SQLite |
 
 ---
 
@@ -158,19 +172,19 @@ Dashboards and models that answer real questions, not just look impressive.
 ### 📊 DATA & ANALYTICS
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" alt="OpenCV"/>
 </p>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-4C8BF5?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-4C8BF5?style=for-the-badge)
 
-### 🤖 AI / ML
+### 🤖 AI / MACHINE LEARNING
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -180,33 +194,33 @@ Dashboards and models that answer real questions, not just look impressive.
 ![NLP](https://img.shields.io/badge/NLP-FFB800?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B9D?style=for-the-badge)
 
-### ⚡ BACKEND & APPS
+### ⚡ BACKEND & APPLICATIONS
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="45" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" alt="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="48" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" alt="Flutter"/>
 </p>
 
 ### 🎨 FRONTEND & LANGUAGES
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" alt="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" alt="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/>
 </p>
 
 ### 🛠️ TOOLS
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux"/>
 </p>
 
 ---
@@ -216,42 +230,73 @@ Dashboards and models that answer real questions, not just look impressive.
 | 🎯 Domain | 🔥 Key Skills |
 |:---|:---|
 | **Data Analytics** | Python, Pandas, NumPy, SQL, Power BI, Excel |
-| **Machine Learning** | Predictive modelling, scikit-learn, PyTorch, BI |
+| **Machine Learning** | Predictive modelling, scikit-learn, PyTorch, Business Intelligence |
 | **Computer Vision & NLP** | OpenCV, MediaPipe, Document AI, real-time tracking |
 | **Backend Development** | FastAPI, Flask, SQLite, REST APIs |
 | **Dashboards** | Streamlit, Jupyter Notebook |
 | **Mobile Development** | Flutter, Firebase |
-| **Core CS** | Data Structures, DBMS, C++ |
+| **Core Computer Science** | Data Structures, DBMS, C++ |
 
 ---
 
 ## 🎓 LEARNING ROADMAP
 
-```mermaid
-graph LR
-    A[Current Skills] --> B[Advanced Analytics]
-    A --> C[Machine Learning]
-    A --> D[Full-Stack AI Apps]
+<div align="center">
 
-    B --> E[Power BI Mastery]
-    B --> F[Advanced SQL]
+### 📊 MY GROWTH JOURNEY
 
-    C --> G[Model Deployment]
-    C --> H[Deep Learning & NLP]
+</div>
 
-    D --> I[FastAPI at Scale]
-    D --> J[Production Dashboards]
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
 
-    E --> K[Data Analyst Pro]
-    F --> K
-    G --> K
-    H --> K
-    I --> K
-    J --> K
+### 📊 Advanced Analytics
 
-    style A fill:#00D9A3
-    style K fill:#FF6B9D
-```
+⬇️
+
+- Power BI Mastery
+- Advanced SQL
+- Data Visualisation
+- Business Intelligence
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### 🤖 Machine Learning
+
+⬇️
+
+- Model Deployment
+- Deep Learning
+- Natural Language Processing
+- Predictive Modelling
+
+</td>
+<td align="center" width="33%" valign="top">
+
+### ⚡ Full-Stack AI Apps
+
+⬇️
+
+- FastAPI at Scale
+- Production Dashboards
+- REST APIs
+- AI-powered Applications
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+⬇️ **ULTIMATE GOAL** ⬇️
+
+### 🚀 Data Analyst & AI/ML Professional
+
+*Turning data into insights, and insights into impact.*
+
+</div>
 
 ---
 
@@ -259,13 +304,13 @@ graph LR
 
 ### 🥇 Smart India Hackathon 2025 — National Finalist
 
-Represented **Team Vajraa** at GIET University, Gunupur, in a national-level hardware competition. Built and debugged a sensor-based prototype within 36 hours, demonstrating strong execution and innovative problem-solving.
+Represented **Team Vajraa** at GIET University, Gunupur, in a national-level hardware competition. Worked on building and debugging a sensor-based disaster-response drone prototype, focusing on autonomous navigation and emergency supply delivery.
 
 ### 🎤 Coordinator — AI Lytics, Coding Society
 
-SRM University · September 2025 – Present
+**SRM University | September 2025 – Present**
 
-Organising university-wide AI workshops, hackathons and seminars.
+Organising university-wide AI workshops, hackathons and seminars, and supporting technical learning and collaboration.
 
 ---
 
@@ -281,7 +326,9 @@ Organising university-wide AI workshops, hackathons and seminars.
 </p>
 
 <p align="center">
-  🏆 <a href="https://github.com/arpitaengineer08-source">View my GitHub profile and achievements</a>
+  <a href="https://github.com/arpitaengineer08-source">
+    View my GitHub profile and repositories
+  </a>
 </p>
 
 ---
@@ -293,15 +340,19 @@ Organising university-wide AI workshops, hackathons and seminars.
 ### "Good data analysis isn't about the fanciest model—
 ### it's about an answer someone can actually act on."
 
-**🎯 Core Principles**
+**🎯 CORE PRINCIPLES**
 
-💎 **Clarity Over Complexity** · Simple, correct answers beat clever ones
+💎 **Clarity Over Complexity**  
+Simple, correct answers beat clever ones.
 
-🔍 **Curiosity Driven** · Always ask what the data is really saying
+🔍 **Curiosity Driven**  
+Always ask what the data is really saying.
 
-🚀 **Build to Ship** · Create dashboards and apps people can actually use
+🚀 **Build to Ship**  
+Create dashboards and apps people can actually use.
 
-🤝 **Collaborate Actively** · The best insights come from asking the team
+🤝 **Collaborate Actively**  
+The best insights come from working together.
 
 </div>
 
@@ -311,24 +362,22 @@ Organising university-wide AI workshops, hackathons and seminars.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arpita-sharma-9a1a381b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
   <a href="mailto:arpitaengineer08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via email"/>
   </a>
   <a href="https://github.com/arpitaengineer08-source">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
   </a>
-</p>
-
-<p align="center">
-  ⭐ Star my repositories if you find them helpful!
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27,30&height=150&section=footer" width="100%" alt="Footer banner"/>
-</div>
 
-<p align="center">
-  <sub>Made with 💜 by Arpita Sharma · Powered by curiosity, coffee, and clean data ☕✨</sub>
-</p>
+**⭐ Star my repositories if you find them helpful!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27,30&height=150&section=footer" width="100%" alt="Footer banner"/>
+
+<sub>Made with 💜 by Arpita Sharma · Powered by curiosity, coffee, and clean data ☕✨</sub>
+
+</div>
