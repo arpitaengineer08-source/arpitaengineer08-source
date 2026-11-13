@@ -315,18 +315,6 @@ Organising university-wide AI workshops, hackathons and seminars, and supporting
 
 ## 📊 GITHUB STATS
 
-<!--
-  Ye cards GitHub Action (.github/workflows/profile-summary-cards.yml) se
-  generate hote hain aur is repo me hi save hote hain. Koi external server nahi.
-  Repo ka naam tumhare username jaisa hona chahiye: arpitaengineer08-source/arpitaengineer08-source
-  Agar tumhari default branch "main" nahi hai, to neeche "main" ko badal do.
--->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpitaengineer08-source/arpitaengineer08-source/main/profile-summary-card-output/radical/3-stats.svg" height="180" alt="GitHub statistics"/>
-  <img src="https://raw.githubusercontent.com/arpitaengineer08-source/arpitaengineer08-source/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="180" alt="Most used languages"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=arpitaengineer08-source&theme=radical&hide_border=true" alt="GitHub contribution streak"/>
 </p>
