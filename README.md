@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,27,30&height=250&section=header&text=ARPITA%20SHARMA&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Turning%20Data%20Into%20Decisions%20✨&descAlignY=60&descAlign=50&descSize=20" width="100%" alt="Arpita Sharma profile banner"/>
 </div>
@@ -316,9 +315,16 @@ Organising university-wide AI workshops, hackathons and seminars, and supporting
 
 ## 📊 GITHUB STATS
 
+<!--
+  Ye cards GitHub Action (.github/workflows/profile-summary-cards.yml) se
+  generate hote hain aur is repo me hi save hote hain. Koi external server nahi.
+  Repo ka naam tumhare username jaisa hona chahiye: arpitaengineer08-source/arpitaengineer08-source
+  Agar tumhari default branch "main" nahi hai, to neeche "main" ko badal do.
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitaengineer08-source&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaengineer08-source&layout=compact&theme=radical&hide_border=true" height="180" alt="Most used languages"/>
+  <img src="https://raw.githubusercontent.com/arpitaengineer08-source/arpitaengineer08-source/main/profile-summary-card-output/radical/3-stats.svg" height="180" alt="GitHub statistics"/>
+  <img src="https://raw.githubusercontent.com/arpitaengineer08-source/arpitaengineer08-source/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="180" alt="Most used languages"/>
 </p>
 
 <p align="center">
