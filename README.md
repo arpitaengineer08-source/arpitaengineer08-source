@@ -316,7 +316,18 @@ Organising university-wide AI workshops, hackathons and seminars, and supporting
 ## 📊 GITHUB STATS
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitaengineer08-source&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Arpita's GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaengineer08-source&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="Most used languages"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=arpitaengineer08-source&theme=radical&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitaengineer08-source&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies"/>
 </p>
 
 <p align="center">
