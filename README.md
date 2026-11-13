@@ -316,17 +316,16 @@ Organising university-wide AI workshops, hackathons and seminars, and supporting
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arpitaengineer08-source/arpitaengineer08-source/main/profile-summary-card-output/radical/3-stats.svg" height="180" alt="GitHub statistics"/>
-  <img src="https://raw.githubusercontent.com/arpitaengineer08-source/arpitaengineer08-source/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="180" alt="Most committed languages"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpitaengineer08-source/arpitaengineer08-source/main/profile-summary-card-output/radical/1-repos-per-language.svg" height="180" alt="Repositories per language"/>
-  <img src="https://raw.githubusercontent.com/arpitaengineer08-source/arpitaengineer08-source/main/profile-summary-card-output/radical/4-productive-time.svg" height="180" alt="Productive time"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=arpitaengineer08-source&theme=radical&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/FF4081/arpitaengineer08-source" alt="GitHub contribution graph" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/arpitaengineer08-source?style=for-the-badge&logo=github&color=FF4081&labelColor=1a1b27" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=arpitaengineer08-source&label=Profile%20Views&color=00D9A3&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <p align="center">
