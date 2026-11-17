@@ -241,8 +241,8 @@ Supporting technical learning and collaboration through AI/development workshops
 ## 📈 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arpitaengineer08-source&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arpitaengineer08-source&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitaengineer08-source&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaengineer08-source&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
