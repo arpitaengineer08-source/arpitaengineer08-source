@@ -3,28 +3,19 @@
 </div>
 
 <p align="center">
-  <strong>📊 Data Analyst Intern | AI/ML Developer</strong><br>
-  💡 Python • SQL • Machine Learning • Computer Vision<br>
-  🚀 Building Dashboards & Full-Stack Applications<br>
+  <strong>📊 Data Analyst Intern | Applied ML Enthusiast</strong><br>
+  💡 Python • SQL • Power BI • Business Intelligence<br>
+  🚀 Building end-to-end analytics projects, dashboards & AI applications<br>
   🏆 Smart India Hackathon 2025 National Finalist
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arpita-sharma-9a1a381b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:arpitaengineer08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/arpitaengineer08-source">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/arpitasharma02/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/arpitaengineer08">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
+  <a href="https://www.linkedin.com/in/arpita-sharma-9a1a381b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:arpitaengineer08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/arpitaengineer08-source"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/arpitasharma02/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/profile/arpitaengineer08"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://arpita-portfolio-zco2.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
@@ -44,36 +35,24 @@
 ```python
 arpita = {
     "name": "Arpita Sharma",
-    "title": "Data Analyst Intern & AI/ML Developer",
-    "education": "B.Tech CSE (Data Science & AI), SRM University",
-    "location": "Shimla, Himachal Pradesh, India",
-
-    "working_on": [
-        "Data analytics & reporting @ Labmentix",
-        "End-to-end ML + BI dashboards",
-        "Computer vision & NLP projects",
-        "Full-stack AI-powered applications"
+    "focus": "Data Analytics & Applied ML",
+    "education": "B.Tech CSE (Data Science & AI)",
+    "university": "SRM University",
+    "currently_working_on": [
+        "Data analytics @ Labmentix",
+        "End-to-end SQL + Python projects",
+        "Business intelligence dashboards",
+        "Forecasting & applied ML"
     ],
-
-    "philosophy": [
-        "Clean the data first",
-        "Find the story in it",
-        "Build something people can use"
+    "core_stack": [
+        "Python", "SQL", "Power BI",
+        "Pandas", "scikit-learn"
     ],
-
-    "currently_exploring": {
-        "data_analytics": [
-            "EDA", "Power BI", "SQL optimisation"
-        ],
-        "machine_learning": [
-            "Deep Learning", "NLP", "Predictive Modelling"
-        ],
-        "full_stack": [
-            "FastAPI", "Streamlit", "Flask"
-        ]
-    }
+    "approach": [
+        "Clean the data", "Find the signal",
+        "Communicate the insight", "Build something useful"
+    ]
 }
-
 print("Turning raw data into decisions!")
 ```
 
@@ -88,17 +67,13 @@ print("Turning raw data into decisions!")
 >
 > **someone actually asked."**
 
-**My Approach:**
-
 - 🔍 **Clean First** → Messy data to trustworthy data
 - 🧩 **Find the Signal** → Numbers to insights
-- ⚡ **Build & Ship** → Analysis to working dashboards
+- ⚡ **Build & Ship** → Analysis to useful dashboards
 - 🎯 **Keep Improving** → Good to production-ready
 - 📚 **Explain Simply** → Technical to understandable
 
-**Impact Over Buzzwords**
-
-Dashboards and models that answer real questions, not just look impressive.
+**Impact Over Buzzwords:** Dashboards and models that answer real questions, not just look impressive.
 
 </td>
 </tr>
@@ -113,31 +88,30 @@ Dashboards and models that answer real questions, not just look impressive.
 <td width="33%" valign="top">
 
 ### 🔭 CURRENTLY BUILDING
-
 - 📊 Data analytics work @ Labmentix
-- 🧠 NeuroEase: AI mental health platform
-- 🎬 MovieIQ Studio: ML + BI dashboard
-- 🏏 Cricbuzz LiveStats: live API analytics
+- 🛒 E-Commerce Intelligence Platform
+- 🌫️ VAYU — Air Quality Intelligence
+- 🚕 Ola Ride Insights
+- 🤖 AI Mock Interview Coach
 
 </td>
 <td width="33%" valign="top">
 
-### 🌱 CURRENTLY LEARNING
-
-- 📈 Advanced Power BI & dashboards
-- 🤖 Machine Learning & Deep Learning
-- 💬 NLP & Document AI
-- ⚡ FastAPI & SQL optimisation
+### 🌱 CURRENTLY EXPLORING
+- 📈 Advanced Power BI & data storytelling
+- 🧮 SQL optimisation & analytics
+- 🤖 Predictive modelling & forecasting
+- ⚡ Streamlit and FastAPI applications
 
 </td>
 <td width="33%" valign="top">
 
 ### 🤝 OPEN TO
-
-- 📊 Data Analyst internships
-- 🤖 ML / AI internships
+- 📊 Data Analyst opportunities
+- 📉 Business Intelligence projects
+- 🤖 Data Science / ML internships
 - 🌐 Open-source & research collaboration
-- 💡 Hackathons & team projects
+- 💡 Hackathons and team projects
 
 </td>
 </tr>
@@ -145,24 +119,82 @@ Dashboards and models that answer real questions, not just look impressive.
 
 | | |
 |:---|:---|
-| 👯 **Looking to collaborate on** | Computer vision, NLP, document AI, ML research and hackathon projects |
-| 🤝 **Looking for help with** | Publishing research, deploying ML models and improving real-world model accuracy |
-| 💬 **Ask me about** | Python, OpenCV, MediaPipe, Flask, computer vision, PDF chat assistants and hardware prototyping |
+| 👯 **Looking to collaborate on** | Data analytics, computer vision, NLP, ML research and hackathon projects |
+| 💬 **Ask me about** | Python, SQL, Power BI, Pandas, OpenCV, MediaPipe and analytics projects |
 | ⚡ **Fun fact** | I built a virtual piano playable with hand gestures 🎹 and speak English, Hindi and French 🇫🇷 |
 
 ---
 
 ## 🚀 FEATURED PROJECTS
 
-| 🧩 Project | 📝 What it does | 🧰 Tech Stack |
-|:---|:---|:---|
-| 🧠 **NeuroEase** | AI-powered mental health platform | Python, ML |
-| 🎬 **MovieIQ Studio** | Movie insights using ML and BI dashboards | Python, Pandas, Streamlit |
-| 🏏 **Cricbuzz LiveStats** | Live cricket analytics using APIs and SQL | Python, SQL, APIs |
-| 😊 **Emotion-Based Music Player** | Detects facial emotions and plays matching music | Python, OpenCV, Deep Learning |
-| 🎹 **Hand Gesture Piano** | Virtual piano controlled by hand landmarks | Python, OpenCV, MediaPipe |
-| 📄 **AI Chat Assistant for PDFs** | Answers questions from PDFs using contextual information | Python, NLP, Flask |
-| 🛒 **Amazon Clone** | Full-stack e-commerce application with authentication | Flask, SQLite |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Intelligence Platform
+End-to-end e-commerce analytics with Python ETL, SQL warehouse modelling, RFM segmentation, cohort analysis, forecasting and churn-risk scoring.
+
+**Tech:** Python • SQL • DuckDB • Streamlit • Power BI
+
+<a href="https://github.com/arpitaengineer08-source/ecommerce-intelligence-platform">VIEW PROJECT ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚕 Ola Ride Insights
+Analytics on 103K ride bookings, including data cleaning, SQL analysis, interactive dashboards, anomaly detection and a what-if impact simulator.
+
+**Tech:** Python • SQL • SQLite • Plotly • Power BI
+
+<a href="https://github.com/arpitaengineer08-source/ola-ride-insights">VIEW PROJECT ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌫️ VAYU — Air Quality Intelligence
+Air-quality forecasting and pollution-disruption analytics for Delhi-NCR, Haryana and Punjab.
+
+**Tech:** Python • Streamlit • scikit-learn • SQL
+
+<a href="https://github.com/arpitaengineer08-source/vayu-air-intelligence">VIEW PROJECT ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 😊 Social Sentiment Analyser
+Sentiment analysis for social media text, handling emojis, hashtags, negation and Hinglish expressions.
+
+**Tech:** Python • scikit-learn • Streamlit • NLP
+
+<a href="https://github.com/arpitaengineer08-source/social-sentiment-analyser">VIEW PROJECT ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 MovieIQ — Studio Decision Intelligence
+Movie performance analysis, box-office prediction and budget what-if analysis through an ML and BI dashboard.
+
+**Tech:** Python • Pandas • Streamlit • Machine Learning
+
+<a href="https://github.com/arpitaengineer08-source/MovieIQ-Studio-Decision-Intelligence">VIEW PROJECT ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Mock Interview Coach
+AI-powered interview practice with a 28-question bank, structured feedback, local LLM support and a deterministic fallback engine.
+
+**Tech:** React • TypeScript • Express • Ollama
+
+<a href="https://github.com/arpitaengineer08-source/ai-mock-interview-coach">VIEW PROJECT ↗</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -175,52 +207,38 @@ Dashboards and models that answer real questions, not just look impressive.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" alt="OpenCV"/>
 </p>
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-4C8BF5?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🤖 AI / MACHINE LEARNING
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-FFB800?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B9D?style=for-the-badge)
 
-### ⚡ BACKEND & APPLICATIONS
+### ⚡ BACKEND, DATABASES & TOOLS
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" alt="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" alt="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="48" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" alt="Flutter"/>
-</p>
-
-### 🎨 FRONTEND & LANGUAGES
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" alt="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/>
-</p>
-
-### 🛠️ TOOLS
-
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" alt="Linux"/>
 </p>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -228,12 +246,11 @@ Dashboards and models that answer real questions, not just look impressive.
 
 | 🎯 Domain | 🔥 Key Skills |
 |:---|:---|
-| **Data Analytics** | Python, Pandas, NumPy, SQL, Power BI, Excel |
-| **Machine Learning** | Predictive modelling, scikit-learn, PyTorch, Business Intelligence |
-| **Computer Vision & NLP** | OpenCV, MediaPipe, Document AI, real-time tracking |
+| **Data Analytics** | Python, Pandas, NumPy, SQL, Power BI, Excel, EDA |
+| **Business Intelligence** | KPI analysis, dashboards, data storytelling, reporting |
+| **Machine Learning** | Predictive modelling, forecasting, scikit-learn, PyTorch |
+| **Computer Vision & NLP** | OpenCV, MediaPipe, text processing, sentiment analysis |
 | **Backend Development** | FastAPI, Flask, SQLite, REST APIs |
-| **Dashboards** | Streamlit, Jupyter Notebook |
-| **Mobile Development** | Flutter, Firebase |
 | **Core Computer Science** | Data Structures, DBMS, C++ |
 
 ---
@@ -251,37 +268,31 @@ Dashboards and models that answer real questions, not just look impressive.
 <td align="center" width="33%" valign="top">
 
 ### 📊 Advanced Analytics
-
 ⬇️
-
-- Power BI Mastery
 - Advanced SQL
+- Power BI & DAX
 - Data Visualisation
 - Business Intelligence
 
 </td>
 <td align="center" width="33%" valign="top">
 
-### 🤖 Machine Learning
-
+### 🤖 Applied Machine Learning
 ⬇️
-
-- Model Deployment
-- Deep Learning
-- Natural Language Processing
 - Predictive Modelling
+- Forecasting
+- Model Evaluation
+- Model Deployment
 
 </td>
 <td align="center" width="33%" valign="top">
 
-### ⚡ Full-Stack AI Apps
-
+### ⚡ Data Applications
 ⬇️
-
-- FastAPI at Scale
-- Production Dashboards
-- REST APIs
-- AI-powered Applications
+- Streamlit Applications
+- FastAPI
+- Data Pipelines
+- Production-ready Projects
 
 </td>
 </tr>
@@ -291,9 +302,9 @@ Dashboards and models that answer real questions, not just look impressive.
 
 ⬇️ **ULTIMATE GOAL** ⬇️
 
-### 🚀 Data Analyst & AI/ML Professional
+### 🚀 Building data products that create measurable impact
 
-*Turning data into insights, and insights into impact.*
+*Turning data into insights, and insights into action.*
 
 </div>
 
@@ -303,17 +314,22 @@ Dashboards and models that answer real questions, not just look impressive.
 
 ### 🥇 Smart India Hackathon 2025 — National Finalist
 
-Represented **Team Vajraa** at GIET University, Gunupur, in a national-level hardware competition. Worked on building and debugging a sensor-based disaster-response drone prototype, focusing on autonomous navigation and emergency supply delivery.
+Represented **Team Vajraa** at GIET University, Gunupur, in the Hardware Edition. Worked on a sensor-based disaster-response drone prototype focused on autonomous navigation and emergency supply delivery.
 
-### 🎤 Coordinator — AI Lytics, Coding Society
+### 🎤 Coordinator — AILytics, Coding Society
 
 **SRM University | September 2025 – Present**
 
-Organising university-wide AI workshops, hackathons and seminars, and supporting technical learning and collaboration.
+Coordinating AI and development workshops, hackathons and technical events while supporting technical learning and collaboration.
 
 ---
 
 ## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitaengineer08-source&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaengineer08-source&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=arpitaengineer08-source&theme=radical&hide_border=true" alt="GitHub contribution streak"/>
@@ -329,9 +345,7 @@ Organising university-wide AI workshops, hackathons and seminars, and supporting
 </p>
 
 <p align="center">
-  <a href="https://github.com/arpitaengineer08-source">
-    View my GitHub profile and repositories
-  </a>
+  <a href="https://github.com/arpitaengineer08-source">Explore all my repositories ↗</a>
 </p>
 
 ---
@@ -364,15 +378,9 @@ The best insights come from working together.
 ## 🤝 LET'S CONNECT
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arpita-sharma-9a1a381b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="mailto:arpitaengineer08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via email"/>
-  </a>
-  <a href="https://github.com/arpitaengineer08-source">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
-  </a>
+  <a href="https://www.linkedin.com/in/arpita-sharma-9a1a381b7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:arpitaengineer08@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via email"/></a>
+  <a href="https://arpita-portfolio-zco2.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"/></a>
 </p>
 
 <div align="center">
