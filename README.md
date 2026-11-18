@@ -241,7 +241,6 @@ Supporting technical learning and collaboration through AI/development workshops
 ## 📈 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile activity"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitaengineer08-source&layout=compact&theme=radical&hide_border=true" height="165" alt="Top languages"/>
 </p>
 
